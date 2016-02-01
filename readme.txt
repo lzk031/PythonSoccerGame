@@ -1,0 +1,2 @@
+This is a simple soccer game. User can control a team to play soccer game. It can be either a single game versus AI or a two players game. 
+You can run the python fine called ‘soccerGame.py’ to play it. You should have to using python-32 version to run this file.

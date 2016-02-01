@@ -1,0 +1,23 @@
+Saturday 16-Nov to Monday 17-Nov (5h):
+try to create a physic engine and make a game like crayon physics deluxe
+Researching about how to create a physic engine, write some basic codes to
+realize collision.
+then start to find some other idea in internet.
+
+Tuesday 18-Nov to Wednesday 19-Nov (5h):
+change my project to making a football game.
+start to searching for information and write some code.
+
+Friday 21-Nov to Sunday 23-Nov (5h)
+create the structure of all the classes
+
+Monday 24-Nov to Tuesday 25-Nov (8h)
+Program AI’s behavior
+
+Saturday 29-Nov to Sunday 30-Nov (5)
+optimize AI, including goalkeeper AI, shooting and passing part
+
+Monday 1-Dec (3)
+User Interface
+Tuesday 2-Dec to Wednesday 3-Dec (3)
+multiplayer game part, replay feature and background sound
